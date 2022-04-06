@@ -1,0 +1,1 @@
+﻿File.WriteAllText("startup.txt",DateTime.Now.ToString());
