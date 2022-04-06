@@ -1,0 +1,15 @@
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\One.csproj.AssemblyReference.cache
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\One.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\One.AssemblyInfoInputs.cache
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\One.AssemblyInfo.cs
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\One.csproj.CoreCompileInputs.cache
+D:\Test\Lesson-5\Dannye1\One\One\bin\Debug\net6.0\One.exe
+D:\Test\Lesson-5\Dannye1\One\One\bin\Debug\net6.0\One.deps.json
+D:\Test\Lesson-5\Dannye1\One\One\bin\Debug\net6.0\One.runtimeconfig.json
+D:\Test\Lesson-5\Dannye1\One\One\bin\Debug\net6.0\One.dll
+D:\Test\Lesson-5\Dannye1\One\One\bin\Debug\net6.0\One.pdb
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\One.dll
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\refint\One.dll
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\One.pdb
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\One.genruntimeconfig.cache
+D:\Test\Lesson-5\Dannye1\One\One\obj\Debug\net6.0\ref\One.dll

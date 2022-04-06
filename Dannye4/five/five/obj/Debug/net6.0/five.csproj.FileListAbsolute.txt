@@ -1,0 +1,15 @@
+D:\Test\Lesson-5\Dannye4\five\five\bin\Debug\net6.0\five.exe
+D:\Test\Lesson-5\Dannye4\five\five\bin\Debug\net6.0\five.deps.json
+D:\Test\Lesson-5\Dannye4\five\five\bin\Debug\net6.0\five.runtimeconfig.json
+D:\Test\Lesson-5\Dannye4\five\five\bin\Debug\net6.0\five.dll
+D:\Test\Lesson-5\Dannye4\five\five\bin\Debug\net6.0\five.pdb
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\five.csproj.AssemblyReference.cache
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\five.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\five.AssemblyInfoInputs.cache
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\five.AssemblyInfo.cs
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\five.csproj.CoreCompileInputs.cache
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\five.dll
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\refint\five.dll
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\five.pdb
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\five.genruntimeconfig.cache
+D:\Test\Lesson-5\Dannye4\five\five\obj\Debug\net6.0\ref\five.dll

@@ -1,0 +1,15 @@
+D:\Test\Lesson-5\Dannye2\Three\Three\bin\Debug\net6.0\Three.exe
+D:\Test\Lesson-5\Dannye2\Three\Three\bin\Debug\net6.0\Three.deps.json
+D:\Test\Lesson-5\Dannye2\Three\Three\bin\Debug\net6.0\Three.runtimeconfig.json
+D:\Test\Lesson-5\Dannye2\Three\Three\bin\Debug\net6.0\Three.dll
+D:\Test\Lesson-5\Dannye2\Three\Three\bin\Debug\net6.0\Three.pdb
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\Three.csproj.AssemblyReference.cache
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\Three.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\Three.AssemblyInfoInputs.cache
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\Three.AssemblyInfo.cs
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\Three.csproj.CoreCompileInputs.cache
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\Three.dll
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\refint\Three.dll
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\Three.pdb
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\Three.genruntimeconfig.cache
+D:\Test\Lesson-5\Dannye2\Three\Three\obj\Debug\net6.0\ref\Three.dll

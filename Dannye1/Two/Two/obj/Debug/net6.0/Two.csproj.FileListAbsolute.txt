@@ -1,0 +1,15 @@
+D:\Test\Lesson-5\Dannye1\Two\Two\bin\Debug\net6.0\Two.exe
+D:\Test\Lesson-5\Dannye1\Two\Two\bin\Debug\net6.0\Two.deps.json
+D:\Test\Lesson-5\Dannye1\Two\Two\bin\Debug\net6.0\Two.runtimeconfig.json
+D:\Test\Lesson-5\Dannye1\Two\Two\bin\Debug\net6.0\Two.dll
+D:\Test\Lesson-5\Dannye1\Two\Two\bin\Debug\net6.0\Two.pdb
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\Two.csproj.AssemblyReference.cache
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\Two.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\Two.AssemblyInfoInputs.cache
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\Two.AssemblyInfo.cs
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\Two.csproj.CoreCompileInputs.cache
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\Two.dll
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\refint\Two.dll
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\Two.pdb
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\Two.genruntimeconfig.cache
+D:\Test\Lesson-5\Dannye1\Two\Two\obj\Debug\net6.0\ref\Two.dll
